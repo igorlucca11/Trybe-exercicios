@@ -1,0 +1,6 @@
+*{ margin: 0;}
+#d1{text-align: center;}
+#d1-1 {max-width: fit-content;}
+#d1-1 li:hover{background-color: purple;}
+#d1-1 li:active{font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+li{list-style: none;}
